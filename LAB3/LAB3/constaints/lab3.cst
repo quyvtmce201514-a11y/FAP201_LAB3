@@ -1,0 +1,7 @@
+IO_LOC "clk" T9; 
+ 
+// KEY0 
+IO_LOC "i_sw" B16; 
+ 
+// LED0 
+IO_LOC "o_led" D14; 
